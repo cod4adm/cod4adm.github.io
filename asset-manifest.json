@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kinoafisha/static/css/main.734b4a8a.chunk.css",
+    "main.js": "/kinoafisha/static/js/main.29ae1067.chunk.js",
+    "main.js.map": "/kinoafisha/static/js/main.29ae1067.chunk.js.map",
+    "runtime-main.js": "/kinoafisha/static/js/runtime-main.d82a60a0.js",
+    "runtime-main.js.map": "/kinoafisha/static/js/runtime-main.d82a60a0.js.map",
+    "static/css/2.de424728.chunk.css": "/kinoafisha/static/css/2.de424728.chunk.css",
+    "static/js/2.d71a9854.chunk.js": "/kinoafisha/static/js/2.d71a9854.chunk.js",
+    "static/js/2.d71a9854.chunk.js.map": "/kinoafisha/static/js/2.d71a9854.chunk.js.map",
+    "index.html": "/kinoafisha/index.html",
+    "precache-manifest.928f2a8af284925430d93fa3ab6531e3.js": "/kinoafisha/precache-manifest.928f2a8af284925430d93fa3ab6531e3.js",
+    "service-worker.js": "/kinoafisha/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/kinoafisha/static/css/2.de424728.chunk.css.map",
+    "static/css/main.734b4a8a.chunk.css.map": "/kinoafisha/static/css/main.734b4a8a.chunk.css.map",
+    "static/js/2.d71a9854.chunk.js.LICENSE.txt": "/kinoafisha/static/js/2.d71a9854.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d82a60a0.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.d71a9854.chunk.js",
+    "static/css/main.734b4a8a.chunk.css",
+    "static/js/main.29ae1067.chunk.js"
+  ]
+}
